@@ -2,6 +2,8 @@
 # Sobre o sistema
 
 Esse sistema foi desenvolvido para realização do teste prático para vaga de Analista de TI do PagMenos.
+Confira /videos/usage_video.mp4
+
 Recursos utilizados
 
     PHP 7.4
